@@ -1,0 +1,16 @@
+2025-08-10T09:41:05.836092 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-10T09:41:06.858329 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:38:56.671866 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:38:57.586545 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:40:01.176135 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:40:02.026238 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:41:05.776158 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:41:06.696455 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:42:09.881291 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:42:10.698366 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:43:17.266491 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:43:18.716341 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-12T07:44:27.312112 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-12T07:44:28.274877 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
+2025-08-13T03:33:25.959657 | ERROR | Error fetching OHLCV for MATIC/USDT timeframe 1h: kucoin does not have market symbol MATIC/USDT
+2025-08-13T03:33:26.778973 | ERROR | Unexpected error in main loop: module 'virtual_trader' has no attribute 'virtual_trader'
