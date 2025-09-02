@@ -1,0 +1,4 @@
+timestamp,action,symbol,side,amount,price,realized_pnl,reason,balance_after
+2025-08-10T08:47:29.493768,open,BTC/USDT,buy,0.00042289091613396506,118233.8,,open,950.0
+2025-08-10T08:47:31.558392,open,ETH/USDT,sell,0.011282821132842749,4209.94,,open,902.5
+2025-08-10T08:47:33.728847,open,XMR/USDT,sell,0.1649486420294623,273.57,,open,857.375
