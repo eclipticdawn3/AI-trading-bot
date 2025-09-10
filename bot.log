@@ -5968,3 +5968,39 @@
 2025-09-02 12:02:11,870 | INFO | Cycle finished in 27.17s. Sleeping 60s.
 2025-09-02 12:03:11,411 | INFO | Received shutdown signal, stopping...
 2025-09-02 12:03:11,871 | INFO | Shutting down. Saving state if necessary.
+2025-09-02 17:37:54,159 | INFO | Starting DEMO mode (virtual trading).
+2025-09-02 17:37:54,159 | INFO | Starting bot main loop
+2025-09-02 17:37:54,159 | INFO | Cycle: fetching market data...
+2025-09-02 17:38:18,528 | INFO | Cycle: fetching news/sentiment...
+2025-09-02 17:38:24,738 | INFO | Cycle: running strategy and handling signals...
+2025-09-02 17:38:24,738 | INFO | Skip BTC/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip ETH/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip BNB/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip SOL/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip ADA/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip XMR/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip LTC/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip DOT/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip AVAX/USDT: low confidence 0.00
+2025-09-02 17:38:24,738 | INFO | Skip ALGO/USDT: low confidence 0.00
+2025-09-02 17:38:24,739 | INFO | Skip TRX/USDT: low confidence 0.00
+2025-09-02 17:38:24,739 | INFO | Skip APT/USDT: low confidence 0.00
+2025-09-02 17:38:24,739 | INFO | Skip INJ/USDT: low confidence 0.00
+2025-09-02 17:38:24,739 | INFO | Cycle finished in 30.58s. Sleeping 60s.
+2025-09-02 17:39:24,739 | INFO | Cycle: fetching market data...
+2025-09-02 17:39:42,933 | INFO | Cycle: fetching news/sentiment...
+2025-09-02 17:39:42,940 | INFO | Cycle: running strategy and handling signals...
+2025-09-02 17:39:42,941 | INFO | Skip BTC/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip ETH/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip BNB/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip SOL/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip ADA/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip XMR/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip LTC/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip DOT/USDT: low confidence 0.00
+2025-09-02 17:39:42,941 | INFO | Skip AVAX/USDT: low confidence 0.00
+2025-09-02 17:39:42,942 | INFO | Skip ALGO/USDT: low confidence 0.00
+2025-09-02 17:39:42,942 | INFO | Skip TRX/USDT: low confidence 0.00
+2025-09-02 17:39:42,942 | INFO | Skip APT/USDT: low confidence 0.00
+2025-09-02 17:39:42,942 | INFO | Skip INJ/USDT: low confidence 0.00
+2025-09-02 17:39:42,942 | INFO | Cycle finished in 18.20s. Sleeping 60s.
